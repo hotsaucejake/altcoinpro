@@ -1,0 +1,2 @@
+# Ignore all files starting with .git
+RedirectMatch 404 /\.git

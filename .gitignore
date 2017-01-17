@@ -1,0 +1,9 @@
+_adminer.php
+plugins/edit-foreign.php
+plugins/foreign-system.php
+__adminer.php
+plugins/config.php
+config/config.php
+plugins/plugin.php
+assets/
+*.DS_Store
